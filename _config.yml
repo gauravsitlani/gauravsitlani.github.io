@@ -9,7 +9,7 @@ name: Gaurav Sitlani
 description: Software developer and open source evangelist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/gauravsitlani/gauravsitlani.github.io/blob/master/images/IMG_20170616_200315.jpg
+avatar: 
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: gauravsitlani
   instagram:
-  linkedin: https://www.linkedin.com/in/gaurav-sitlani-0b5892bb/
+  linkedin: gaurav-sitlani-0b5892bb/
   pinterest:
   rss: gauravsitlani# just type anything here for a working RSS icon
   twitter: gauravsitlani
